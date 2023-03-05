@@ -22,12 +22,16 @@ The requirements of the project is to produce a data visualisation dashboard usi
 
 The execution for the bootcamp was done by Tableau and available on Tableau Public in the link below. The future personal action would be to create the same dashboard using PowerBI.
 https://public.tableau.com/views/Muse_Fuad_3_Dashboard_022023/ReportsDashboards?:language=en-US&:display_count=n&:origin=viz_share_link
+
+
 The project deliverables are:
 
 Dashboard blueprint.
-mockup of the additional visualizations.
+Mockup of the additional visualizations.
 A link to the Tableau Public version of the dashboard and additional worksheets, as well as the export of it in PDF or image format. Or provide the PowerBI version of your project (.pbix file) or the Excel document.
 A slide show which answers specific questions on the lifecycle and requirements
+
+
 
 Project 3 - Assess the Quality of a Dataset for a Public Service Agency
 
@@ -52,6 +56,7 @@ Project 4 - Retrieve User Activity Data on an Online Forum Using SQL The inteact
 Phyton-Sqlite library was ultilised for the project. The queries created was also updated into a database so that it can be reused for future analysis.
 
 The deliverables presented are:
+
 The Entity Relationship Diagram.
 The completed jupyter notebook.
 The presentation that covers all of the following items:
